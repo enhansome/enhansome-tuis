@@ -19,7 +19,7 @@
             "open_issues": 535,
             "owner": "aristocratos",
             "repo": "btop",
-            "stars": 34547,
+            "stars": 34561,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -36,11 +36,11 @@
             "id": 2909429,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T18:46:19Z",
-            "open_issues": 102,
+            "last_commit": "2026-09-13T16:45:37Z",
+            "open_issues": 101,
             "owner": "nicolargo",
             "repo": "glances",
-            "stars": 33563,
+            "stars": 33570,
             "topics": [
               "monitoring",
               "multi-platform",
@@ -66,11 +66,11 @@
             "id": 11397939,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-10T12:40:29Z",
+            "last_commit": "2026-09-13T15:41:42Z",
             "open_issues": 449,
             "owner": "allinurl",
             "repo": "goaccess",
-            "stars": 20919,
+            "stars": 20924,
             "topics": [
               "analytics",
               "apache",
@@ -112,7 +112,7 @@
             "open_issues": 107,
             "owner": "wtfutil",
             "repo": "wtf",
-            "stars": 17080,
+            "stars": 17081,
             "topics": [
               "cui",
               "dashboard",
@@ -140,11 +140,11 @@
             "id": 205042455,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-12T20:28:57Z",
-            "open_issues": 105,
+            "last_commit": "2026-09-13T03:54:01Z",
+            "open_issues": 106,
             "owner": "ClementTsang",
             "repo": "bottom",
-            "stars": 14012,
+            "stars": 14017,
             "topics": [
               "bottom",
               "btm",
@@ -226,7 +226,7 @@
             "open_issues": 101,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12508,
+            "stars": 12509,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -260,7 +260,7 @@
             "open_issues": 55,
             "owner": "imsnif",
             "repo": "bandwhich",
-            "stars": 11962,
+            "stars": 11965,
             "topics": [
               "bandwidth",
               "cli",
@@ -282,11 +282,11 @@
             "id": 109451092,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-12T17:12:26Z",
-            "open_issues": 252,
+            "last_commit": "2026-09-13T14:20:33Z",
+            "open_issues": 250,
             "owner": "siderolabs",
             "repo": "talos",
-            "stars": 11150,
+            "stars": 11151,
             "topics": [
               "cloud-native",
               "containerd",
@@ -338,7 +338,7 @@
             "open_issues": 143,
             "owner": "Syllo",
             "repo": "nvtop",
-            "stars": 10992,
+            "stars": 10997,
             "topics": [
               "adreno",
               "amd",
@@ -372,7 +372,7 @@
             "open_issues": 99,
             "owner": "aristocratos",
             "repo": "bpytop",
-            "stars": 10931,
+            "stars": 10930,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -390,10 +390,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-11T15:20:01Z",
-            "open_issues": 354,
+            "open_issues": 356,
             "owner": "htop-dev",
             "repo": "htop",
-            "stars": 8324,
+            "stars": 8325,
             "topics": [
               "bsd",
               "c",
@@ -424,7 +424,7 @@
             "open_issues": 116,
             "owner": "draios",
             "repo": "sysdig",
-            "stars": 8290,
+            "stars": 8292,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -445,7 +445,7 @@
             "open_issues": 84,
             "owner": "fujiapple852",
             "repo": "trippy",
-            "stars": 7913,
+            "stars": 7918,
             "topics": [
               "cli",
               "command-line-interface",
@@ -484,10 +484,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-12T12:10:16Z",
-            "open_issues": 52,
+            "open_issues": 55,
             "owner": "MrLesk",
             "repo": "Backlog.md",
-            "stars": 6714,
+            "stars": 6720,
             "topics": [
               "agent",
               "agentic-ai",
@@ -623,7 +623,7 @@
             "open_issues": 19,
             "owner": "domcyrus",
             "repo": "rustnet",
-            "stars": 5019,
+            "stars": 5020,
             "topics": [
               "android",
               "cli",
@@ -660,11 +660,11 @@
             "id": 678562120,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T20:54:25Z",
+            "last_commit": "2026-09-13T00:18:16Z",
             "open_issues": 38,
             "owner": "orhun",
             "repo": "binsider",
-            "stars": 4427,
+            "stars": 4430,
             "topics": [
               "analysis",
               "binary",
@@ -744,7 +744,7 @@
             "open_issues": 104,
             "owner": "raboof",
             "repo": "nethogs",
-            "stars": 3693,
+            "stars": 3697,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -761,8 +761,8 @@
             "id": 1107175402,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-12T13:33:17Z",
-            "open_issues": 47,
+            "last_commit": "2026-09-13T20:43:35Z",
+            "open_issues": 41,
             "owner": "psmux",
             "repo": "psmux",
             "stars": 3466,
@@ -830,7 +830,7 @@
             "open_issues": 90,
             "owner": "xxxserxxx",
             "repo": "gotop",
-            "stars": 3090,
+            "stars": 3091,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -851,7 +851,7 @@
             "open_issues": 40,
             "owner": "bvaisvil",
             "repo": "zenith",
-            "stars": 3051,
+            "stars": 3052,
             "topics": [
               "cpu",
               "disk",
@@ -881,7 +881,7 @@
             "open_issues": 23,
             "owner": "orhun",
             "repo": "kmon",
-            "stars": 2944,
+            "stars": 2945,
             "topics": [
               "hacktoberfest",
               "kernel-activities",
@@ -910,10 +910,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-07T11:03:52Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "F1bonacc1",
             "repo": "process-compose",
-            "stars": 2773,
+            "stars": 2771,
             "topics": [
               "docker",
               "go",
@@ -944,7 +944,7 @@
             "open_issues": 17,
             "owner": "control-theory",
             "repo": "gonzo",
-            "stars": 2765,
+            "stars": 2766,
             "topics": [
               "ai",
               "golang",
@@ -1007,11 +1007,11 @@
             "id": 241722462,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-26T18:18:38Z",
+            "last_commit": "2026-09-13T05:40:54Z",
             "open_issues": 32,
             "owner": "facebookincubator",
             "repo": "below",
-            "stars": 2516,
+            "stars": 2517,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -1145,7 +1145,7 @@
             "open_issues": 6,
             "owner": "Chleba",
             "repo": "netscanner",
-            "stars": 1843,
+            "stars": 1845,
             "topics": [
               "arp",
               "network-analysis",
@@ -1178,7 +1178,7 @@
             "open_issues": 46,
             "owner": "cgdb",
             "repo": "cgdb",
-            "stars": 1842,
+            "stars": 1843,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -1196,10 +1196,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-08-14T23:37:48Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "lissy93",
             "repo": "AdGuardian-Term",
-            "stars": 1655,
+            "stars": 1658,
             "topics": [
               "adguard",
               "dns",
@@ -1226,7 +1226,7 @@
             "open_issues": 15,
             "owner": "dimonomid",
             "repo": "nerdlog",
-            "stars": 1559,
+            "stars": 1560,
             "topics": [
               "devops-tools",
               "distributed",
@@ -1289,8 +1289,8 @@
             "id": 532695496,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T01:18:42Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-13T11:27:02Z",
+            "open_issues": 2,
             "owner": "charles-001",
             "repo": "dolphie",
             "stars": 1195,
@@ -1372,7 +1372,7 @@
             "open_issues": 28,
             "owner": "ymtdzzz",
             "repo": "otel-tui",
-            "stars": 1083,
+            "stars": 1082,
             "topics": [
               "opentelemetry",
               "tui"
@@ -1420,8 +1420,8 @@
             "id": 86158629,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-10T19:49:08Z",
-            "open_issues": 63,
+            "last_commit": "2026-09-13T11:45:24Z",
+            "open_issues": 61,
             "owner": "Atoptool",
             "repo": "atop",
             "stars": 1061,
@@ -1457,11 +1457,11 @@
             "id": 406937732,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T21:53:05Z",
+            "last_commit": "2026-09-13T18:48:55Z",
             "open_issues": 7,
             "owner": "sauljabin",
             "repo": "kaskade",
-            "stars": 1027,
+            "stars": 1028,
             "topics": [
               "cli",
               "kafka",
@@ -1517,7 +1517,7 @@
             "open_issues": 11,
             "owner": "siddhantac",
             "repo": "puffin",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "bubbletea",
               "finance",
@@ -1627,8 +1627,8 @@
             "id": 1038733541,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-06T01:33:29Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-13T01:32:36Z",
+            "open_issues": 13,
             "owner": "grouzen",
             "repo": "framework-tool-tui",
             "stars": 356,
@@ -1915,7 +1915,7 @@
             "open_issues": 4,
             "owner": "psmux",
             "repo": "psnet",
-            "stars": 145,
+            "stars": 146,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -2054,7 +2054,7 @@
             "open_issues": 1,
             "owner": "hill",
             "repo": "lazyslurm",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "cli",
               "hpc",
@@ -2244,7 +2244,7 @@
             "id": 961531304,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T11:58:00Z",
+            "last_commit": "2026-09-13T19:06:05Z",
             "open_issues": 0,
             "owner": "zb-ss",
             "repo": "servonaut",
@@ -2420,11 +2420,11 @@
             "id": 975734319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T19:41:40Z",
-            "open_issues": 5815,
+            "last_commit": "2026-09-13T20:32:15Z",
+            "open_issues": 5860,
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 206932,
+            "stars": 207106,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -2441,11 +2441,11 @@
             "id": 965415649,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T20:23:03Z",
-            "open_issues": 16839,
+            "last_commit": "2026-09-13T18:53:20Z",
+            "open_issues": 16973,
             "owner": "openai",
             "repo": "codex",
-            "stars": 123611,
+            "stars": 123813,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -2462,11 +2462,11 @@
             "id": 134017286,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-11T17:14:40Z",
-            "open_issues": 1036,
+            "last_commit": "2026-09-13T05:45:28Z",
+            "open_issues": 1032,
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 82278,
+            "stars": 82303,
             "topics": [
               "cli",
               "git",
@@ -2488,10 +2488,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-12T19:18:44Z",
-            "open_issues": 439,
+            "open_issues": 441,
             "owner": "dandavison",
             "repo": "delta",
-            "stars": 32162,
+            "stars": 32173,
             "topics": [
               "color-themes",
               "delta",
@@ -2517,11 +2517,11 @@
             "id": 987670088,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T20:14:12Z",
-            "open_issues": 717,
+            "last_commit": "2026-09-13T07:12:53Z",
+            "open_issues": 725,
             "owner": "charmbracelet",
             "repo": "crush",
-            "stars": 28037,
+            "stars": 28052,
             "topics": [
               "agentic-ai",
               "ai",
@@ -2547,7 +2547,7 @@
             "open_issues": 344,
             "owner": "gitui-org",
             "repo": "gitui",
-            "stars": 22479,
+            "stars": 22481,
             "topics": [
               "async",
               "bash",
@@ -2578,7 +2578,7 @@
             "open_issues": 30,
             "owner": "antonmedv",
             "repo": "fx",
-            "stars": 20623,
+            "stars": 20624,
             "topics": [
               "cli",
               "command-line",
@@ -2604,7 +2604,7 @@
             "open_issues": 234,
             "owner": "jonas",
             "repo": "tig",
-            "stars": 13331,
+            "stars": 13333,
             "topics": [
               "c",
               "git",
@@ -2630,7 +2630,7 @@
             "open_issues": 87,
             "owner": "darrenburns",
             "repo": "posting",
-            "stars": 12401,
+            "stars": 12408,
             "topics": [
               "automation",
               "cli",
@@ -2664,7 +2664,7 @@
             "open_issues": 37,
             "owner": "Maciek-roboblog",
             "repo": "Claude-Code-Usage-Monitor",
-            "stars": 8700,
+            "stars": 8704,
             "topics": [
               "ai",
               "analytics",
@@ -2695,7 +2695,7 @@
             "open_issues": 55,
             "owner": "jart",
             "repo": "blink",
-            "stars": 7579,
+            "stars": 7580,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -2716,7 +2716,7 @@
             "open_issues": 82,
             "owner": "charmbracelet",
             "repo": "soft-serve",
-            "stars": 7216,
+            "stars": 7217,
             "topics": [
               "git",
               "golang",
@@ -2741,7 +2741,7 @@
             "open_issues": 44,
             "owner": "tconbeer",
             "repo": "harlequin",
-            "stars": 6397,
+            "stars": 6398,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -2762,7 +2762,7 @@
             "open_issues": 14,
             "owner": "achristmascarl",
             "repo": "rainfrog",
-            "stars": 5326,
+            "stars": 5328,
             "topics": [
               "database-management",
               "mysql",
@@ -2789,10 +2789,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-10T05:39:26Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "Maxteabag",
             "repo": "sqlit",
-            "stars": 4825,
+            "stars": 4828,
             "topics": [
               "cockroachdb",
               "command-line-tool",
@@ -2823,11 +2823,11 @@
             "id": 646677050,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-12T09:26:50Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-13T04:35:23Z",
+            "open_issues": 40,
             "owner": "jorgerojas26",
             "repo": "lazysql",
-            "stars": 4294,
+            "stars": 4297,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -2875,7 +2875,7 @@
             "open_issues": 20,
             "owner": "Julien-cpsn",
             "repo": "ATAC",
-            "stars": 3723,
+            "stars": 3724,
             "topics": [
               "api",
               "api-client",
@@ -2901,10 +2901,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-09T09:05:21Z",
-            "open_issues": 99,
+            "open_issues": 100,
             "owner": "SeemSeam",
             "repo": "claude_codex_bridge",
-            "stars": 3493,
+            "stars": 3494,
             "topics": [
               "ai-coding",
               "ai-collaboration",
@@ -2946,7 +2946,7 @@
             "open_issues": 6,
             "owner": "batrachianai",
             "repo": "toad",
-            "stars": 3427,
+            "stars": 3428,
             "topics": [
               "agents-ui",
               "ai",
@@ -3008,7 +3008,7 @@
             "open_issues": 12,
             "owner": "danvergara",
             "repo": "dblab",
-            "stars": 3223,
+            "stars": 3229,
             "topics": [
               "cli",
               "client",
@@ -3064,10 +3064,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-27T12:34:06Z",
-            "open_issues": 15,
+            "open_issues": 18,
             "owner": "joouha",
             "repo": "euporie",
-            "stars": 2655,
+            "stars": 2656,
             "topics": [
               "euporie",
               "ipynb",
@@ -3103,7 +3103,7 @@
             "open_issues": 17,
             "owner": "maaslalani",
             "repo": "nap",
-            "stars": 2218,
+            "stars": 2217,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -3124,7 +3124,7 @@
             "open_issues": 153,
             "owner": "runmedev",
             "repo": "runme",
-            "stars": 2169,
+            "stars": 2168,
             "topics": [
               "cloud",
               "devops",
@@ -3151,7 +3151,7 @@
             "open_issues": 24,
             "owner": "lusingander",
             "repo": "serie",
-            "stars": 2094,
+            "stars": 2096,
             "topics": [
               "cli",
               "git",
@@ -3341,8 +3341,8 @@
             "id": 591022890,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-12T17:47:10Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-13T10:12:45Z",
+            "open_issues": 1,
             "owner": "emanuele-em",
             "repo": "proxelar",
             "stars": 1060,
@@ -3440,8 +3440,8 @@
             "id": 1046809510,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T05:27:56Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-13T15:58:15Z",
+            "open_issues": 1,
             "owner": "vinhnx",
             "repo": "VTCode",
             "stars": 842,
@@ -3536,11 +3536,11 @@
             "id": 1130545281,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-12T18:18:18Z",
+            "last_commit": "2026-09-13T18:18:17Z",
             "open_issues": 0,
             "owner": "reyamira",
             "repo": "models",
-            "stars": 506,
+            "stars": 507,
             "topics": [
               "ai",
               "anamolyco",
@@ -3569,11 +3569,11 @@
             "id": 1023335896,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-09T16:52:44Z",
-            "open_issues": 49,
+            "last_commit": "2026-09-13T16:33:03Z",
+            "open_issues": 35,
             "owner": "aannoo",
             "repo": "hcom",
-            "stars": 488,
+            "stars": 490,
             "topics": [
               "agent",
               "agent-skills",
@@ -3755,7 +3755,7 @@
             "open_issues": 210,
             "owner": "haskell",
             "repo": "ghcup-hs",
-            "stars": 356,
+            "stars": 355,
             "topics": [
               "cabal",
               "ghc",
@@ -3794,7 +3794,7 @@
         {
           "node_type": "item",
           "title": "sabiql",
-          "description": "A fast, driver-less TUI to browse, query, and edit PostgreSQL databases, written in Rust",
+          "description": "Fast, driverless, Vim-first database TUI with safe editing and ER diagrams.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3803,7 +3803,7 @@
             "id": 1123541397,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-12T10:42:28Z",
+            "last_commit": "2026-09-13T00:29:28Z",
             "open_issues": 7,
             "owner": "riii111",
             "repo": "sabiql",
@@ -3978,7 +3978,7 @@
             "open_issues": 4,
             "owner": "rshelekhov",
             "repo": "lazymake",
-            "stars": 212,
+            "stars": 213,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -4010,7 +4010,7 @@
             "open_issues": 6,
             "owner": "tareqimbasher",
             "repo": "cargo-seek",
-            "stars": 200,
+            "stars": 199,
             "topics": [
               "cargo",
               "cargo-subcommand",
@@ -4160,7 +4160,7 @@
             "open_issues": 16,
             "owner": "angristan",
             "repo": "fast-resume",
-            "stars": 157,
+            "stars": 158,
             "topics": [
               "ai-coding-assistant",
               "claude-code",
@@ -4286,6 +4286,34 @@
         },
         {
           "node_type": "item",
+          "title": "amtui",
+          "description": "Alertmanager TUI - Your Terminal Companion for Alertmanager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Alertmanager TUI -  Your Terminal Companion for Alertmanager",
+            "homepage": null,
+            "id": 685871916,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-06-20T07:53:47Z",
+            "open_issues": 4,
+            "owner": "pehlicd",
+            "repo": "amtui",
+            "stars": 115,
+            "topics": [
+              "alertmanager",
+              "go",
+              "golang",
+              "prometheus",
+              "terminal",
+              "tui"
+            ]
+          },
+          "first_seen": "2026-08-29T01:47:33.744Z"
+        },
+        {
+          "node_type": "item",
           "title": "gitv",
           "description": "A beautiful, feature-rich and performant terminal client for GitHub issues.",
           "children": [],
@@ -4305,34 +4333,6 @@
               "cli",
               "github",
               "productivity",
-              "tui"
-            ]
-          },
-          "first_seen": "2026-08-29T01:47:33.744Z"
-        },
-        {
-          "node_type": "item",
-          "title": "amtui",
-          "description": "Alertmanager TUI - Your Terminal Companion for Alertmanager",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Alertmanager TUI -  Your Terminal Companion for Alertmanager",
-            "homepage": null,
-            "id": 685871916,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-06-20T07:53:47Z",
-            "open_issues": 4,
-            "owner": "pehlicd",
-            "repo": "amtui",
-            "stars": 114,
-            "topics": [
-              "alertmanager",
-              "go",
-              "golang",
-              "prometheus",
-              "terminal",
               "tui"
             ]
           },
@@ -4582,6 +4582,39 @@
         },
         {
           "node_type": "item",
+          "title": "ygrep",
+          "description": "A fast, local, indexed code search TUI powered by Tantivy full-text indexing, optimized for AI coding assistants",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A fast, local, indexed code search tool optimized for AI coding assistants. Written in Rust using Tantivy for full-text indexing.",
+            "homepage": "https://yetidevworks.com/ygrep",
+            "id": 1113292031,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-08-31T15:17:18Z",
+            "open_issues": 2,
+            "owner": "yetidevworks",
+            "repo": "ygrep",
+            "stars": 58,
+            "topics": [
+              "ai-agents",
+              "code-search",
+              "developer-tools",
+              "full-text-search",
+              "grep",
+              "ratatui",
+              "rust",
+              "search",
+              "tantivy",
+              "terminal",
+              "tui"
+            ]
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
+        },
+        {
+          "node_type": "item",
           "title": "differ",
           "description": "A TUI git diff viewer",
           "children": [],
@@ -4631,7 +4664,7 @@
             "open_issues": 1,
             "owner": "zdyxry",
             "repo": "tokui",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "bubbletea",
               "cloc",
@@ -4646,7 +4679,7 @@
         {
           "node_type": "item",
           "title": "qrypad",
-          "description": "A terminal SQL client for Postgres, MySQL and SQLite.",
+          "description": "A fast SQL scratchpad for your terminal.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4787,6 +4820,40 @@
             ]
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
+        },
+        {
+          "node_type": "item",
+          "title": "y509",
+          "description": "Inspect X.509 certificate chains, catching the missing intermediates that break curl but not browsers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "TUI for X.509 certificate chains: verifies trust, and catches the missing intermediates and bad ordering that break curl but not browsers",
+            "homepage": "https://kanywst.github.io/y509/",
+            "id": 989510120,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-13T14:44:57Z",
+            "open_issues": 3,
+            "owner": "kanywst",
+            "repo": "y509",
+            "stars": 29,
+            "topics": [
+              "bubbletea",
+              "certificates",
+              "charm",
+              "cli",
+              "developer-tools",
+              "golang",
+              "pki",
+              "ssl",
+              "terminal",
+              "tls",
+              "tui",
+              "x509"
+            ]
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
         },
         {
           "node_type": "item",
@@ -4935,6 +5002,43 @@
         },
         {
           "node_type": "item",
+          "title": "dbterm",
+          "description": "Terminal database workbench for PostgreSQL, MySQL, SQLite, Turso, and Cloudflare D1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Keyboard-first terminal database workbench for PostgreSQL, MySQL/MariaDB, SQLite, Turso, and D1—with server-wide discovery, typed data workflows, local services, and verified local/remote backups.",
+            "homepage": "https://dbterm.shreyam1008.com.np/",
+            "id": 1155124822,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-09-12T09:26:57Z",
+            "open_issues": 0,
+            "owner": "shreyam1008",
+            "repo": "dbterm",
+            "stars": 13,
+            "topics": [
+              "backup",
+              "cloudflare-d1",
+              "cross-platform",
+              "database",
+              "database-backup",
+              "database-client",
+              "developer-tools",
+              "golang",
+              "mysql",
+              "postgresql",
+              "sql",
+              "sqlite",
+              "terminal",
+              "tui",
+              "turso"
+            ]
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
+        },
+        {
+          "node_type": "item",
           "title": "kagan",
           "description": "AI-powered Kanban TUI for autonomous development workflows",
           "children": [],
@@ -4949,7 +5053,7 @@
             "open_issues": 7,
             "owner": "kagan-sh",
             "repo": "kagan",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "ai",
               "ai-agents",
@@ -5034,6 +5138,59 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Cloudeval",
+          "description": "Interactive cloud evaluations and reviews with project context, report views, and chat sessions. Supports Azure and static AWS CloudFormation (beta); requires a Cloudeval account.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cloudeval CLI",
+            "homepage": null,
+            "id": 1127729927,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-10T20:52:23Z",
+            "open_issues": 8,
+            "owner": "ganakailabs",
+            "repo": "cloudeval-cli",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
+        },
+        {
+          "node_type": "item",
+          "title": "raygun",
+          "description": "A terminal receiver for Spatie's Ray debugger, speaking the same HTTP protocol as the desktop app, for PHP, Laravel and Grav",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Terminal receiver for Spatie's Ray debugger. Rust + ratatui.",
+            "homepage": "https://yetidevworks.com/raygun",
+            "id": 1074900881,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-08-04T14:59:02Z",
+            "open_issues": 0,
+            "owner": "yetidevworks",
+            "repo": "raygun",
+            "stars": 1,
+            "topics": [
+              "debugging",
+              "developer-tools",
+              "grav",
+              "laravel",
+              "php",
+              "ratatui",
+              "rust",
+              "spatie-ray",
+              "terminal",
+              "tui"
+            ]
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
         }
       ],
       "title": "Development"
@@ -5057,7 +5214,7 @@
             "open_issues": 213,
             "owner": "wagoodman",
             "repo": "dive",
-            "stars": 54559,
+            "stars": 54558,
             "topics": [
               "cli",
               "docker",
@@ -5085,7 +5242,7 @@
             "open_issues": 300,
             "owner": "jesseduffield",
             "repo": "lazydocker",
-            "stars": 52804,
+            "stars": 52816,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -5102,11 +5259,11 @@
             "id": 167596393,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T09:19:34Z",
-            "open_issues": 80,
+            "last_commit": "2026-09-13T14:12:02Z",
+            "open_issues": 78,
             "owner": "derailed",
             "repo": "k9s",
-            "stars": 34566,
+            "stars": 34574,
             "topics": [
               "go",
               "golang",
@@ -5136,7 +5293,7 @@
             "open_issues": 120,
             "owner": "bcicen",
             "repo": "ctop",
-            "stars": 17836,
+            "stars": 17838,
             "topics": [
               "command-line",
               "commandline",
@@ -5250,7 +5407,7 @@
             "open_issues": 23,
             "owner": "mrjackwills",
             "repo": "oxker",
-            "stars": 1837,
+            "stars": 1839,
             "topics": [
               "async",
               "docker",
@@ -5295,8 +5452,8 @@
             "id": 723535263,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-12T19:53:22Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-13T10:23:08Z",
+            "open_issues": 4,
             "owner": "hcavarsan",
             "repo": "kftray",
             "stars": 1560,
@@ -5338,7 +5495,7 @@
             "open_issues": 1,
             "owner": "amir20",
             "repo": "dtop",
-            "stars": 1412,
+            "stars": 1413,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -5356,10 +5513,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T23:58:29Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "containers",
             "repo": "podman-tui",
-            "stars": 1224,
+            "stars": 1225,
             "topics": [
               "containers",
               "podman",
@@ -5532,7 +5689,7 @@
             "id": 339574757,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-12T18:18:53Z",
+            "last_commit": "2026-09-12T22:30:00Z",
             "open_issues": 12,
             "owner": "sarub0b0",
             "repo": "kubetui",
@@ -5930,11 +6087,11 @@
             "id": 53632140,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-12T15:02:41Z",
+            "last_commit": "2026-09-13T00:38:20Z",
             "open_issues": 931,
             "owner": "micro-editor",
             "repo": "micro",
-            "stars": 29573,
+            "stars": 29575,
             "topics": [
               "command-line",
               "cross-platform",
@@ -5961,10 +6118,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-11T21:05:28Z",
-            "open_issues": 176,
+            "open_issues": 177,
             "owner": "microsoft",
             "repo": "edit",
-            "stars": 14573,
+            "stars": 14572,
             "topics": [
               "editor",
               "rust",
@@ -5990,7 +6147,7 @@
             "open_issues": 64,
             "owner": "antirez",
             "repo": "kilo",
-            "stars": 9119,
+            "stars": 9122,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -6007,11 +6164,11 @@
             "id": 907990001,
             "language": "Rust",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-11T15:39:28Z",
-            "open_issues": 340,
+            "last_commit": "2026-09-13T20:40:32Z",
+            "open_issues": 341,
             "owner": "sinelaw",
             "repo": "fresh",
-            "stars": 8844,
+            "stars": 8866,
             "topics": [
               "ide",
               "terminal-based",
@@ -6111,7 +6268,7 @@
             "open_issues": 46,
             "owner": "Textualize",
             "repo": "frogmouth",
-            "stars": 3284,
+            "stars": 3288,
             "topics": [
               "markdown",
               "markdown-viewer",
@@ -6135,11 +6292,11 @@
             "id": 763201818,
             "language": "Zig",
             "license": "MIT",
-            "last_commit": "2026-09-10T19:47:34Z",
+            "last_commit": "2026-09-13T13:29:46Z",
             "open_issues": 80,
             "owner": "neurocyte",
             "repo": "flow",
-            "stars": 2219,
+            "stars": 2221,
             "topics": [
               "language-server-client",
               "language-server-protocol",
@@ -6164,7 +6321,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-12T07:52:52Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "durdraw",
             "repo": "durdraw",
             "stars": 1816,
@@ -6276,11 +6433,11 @@
             "id": 1092132533,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-12T15:35:59Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-13T17:54:47Z",
+            "open_issues": 1,
             "owner": "Epistates",
             "repo": "treemd",
-            "stars": 690,
+            "stars": 692,
             "topics": [
               "cli",
               "markdown",
@@ -6307,7 +6464,7 @@
             "open_issues": 38,
             "owner": "magiblot",
             "repo": "turbo",
-            "stars": 681,
+            "stars": 682,
             "topics": [
               "cpp",
               "linux",
@@ -6357,7 +6514,7 @@
             "id": 1124047573,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-19T10:41:48Z",
+            "last_commit": "2026-09-13T12:06:01Z",
             "open_issues": 14,
             "owner": "Cyxuan0311",
             "repo": "PNANA",
@@ -6408,7 +6565,7 @@
             "id": 521553717,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-09T04:12:48Z",
+            "last_commit": "2026-09-12T20:49:04Z",
             "open_issues": 9,
             "owner": "evanlin96069",
             "repo": "nino",
@@ -6524,10 +6681,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-12T00:19:17Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "sxyazi",
             "repo": "yazi",
-            "stars": 42137,
+            "stars": 42163,
             "topics": [
               "android",
               "asyncio",
@@ -6568,7 +6725,7 @@
             "open_issues": 269,
             "owner": "yorukot",
             "repo": "superfile",
-            "stars": 23167,
+            "stars": 23217,
             "topics": [
               "bubbletea",
               "cli",
@@ -6601,7 +6758,7 @@
             "open_issues": 7,
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 21878,
+            "stars": 21880,
             "topics": [
               "android",
               "batch-rename",
@@ -6643,7 +6800,7 @@
             "open_issues": 896,
             "owner": "ranger",
             "repo": "ranger",
-            "stars": 17403,
+            "stars": 17404,
             "topics": [
               "console",
               "file-launcher",
@@ -6666,11 +6823,11 @@
             "id": 157766521,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-11T16:28:59Z",
-            "open_issues": 102,
+            "last_commit": "2026-09-13T19:18:37Z",
+            "open_issues": 101,
             "owner": "Canop",
             "repo": "broot",
-            "stars": 12937,
+            "stars": 12938,
             "topics": [
               "balanced-bfs-descent",
               "command-line",
@@ -6698,7 +6855,7 @@
             "open_issues": 85,
             "owner": "gokcehan",
             "repo": "lf",
-            "stars": 9506,
+            "stars": 9507,
             "topics": [
               "file-manager",
               "terminal"
@@ -6779,11 +6936,11 @@
             "id": 939835394,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T13:02:02Z",
+            "last_commit": "2026-09-13T06:32:17Z",
             "open_issues": 689,
             "owner": "MidnightCommander",
             "repo": "mc",
-            "stars": 977,
+            "stars": 978,
             "topics": [
               "c",
               "console",
@@ -6841,7 +6998,7 @@
             "id": 987744903,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-12T09:12:38Z",
+            "last_commit": "2026-09-13T14:18:26Z",
             "open_issues": 10,
             "owner": "NSPC911",
             "repo": "rovr",
@@ -7026,7 +7183,7 @@
             "id": 1087093453,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-12T18:26:32Z",
+            "last_commit": "2026-09-13T19:44:55Z",
             "open_issues": 0,
             "owner": "robkam",
             "repo": "ytreenova",
@@ -7065,7 +7222,7 @@
             "id": 1102345311,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-10T03:17:23Z",
+            "last_commit": "2026-09-13T13:27:22Z",
             "open_issues": 21,
             "owner": "Bimbok",
             "repo": "fyzenor",
@@ -7086,6 +7243,36 @@
         },
         {
           "node_type": "item",
+          "title": "FileView",
+          "description": "A terminal file browser with image previews, Git status, search, and an MCP server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A terminal file browser with image previews, Git status, search, and an MCP server. No configuration needed.",
+            "homepage": null,
+            "id": 1137999377,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-09-11T19:14:18Z",
+            "open_issues": 0,
+            "owner": "Hiro-Chiba",
+            "repo": "fileview",
+            "stars": 9,
+            "topics": [
+              "cli",
+              "developer-tools",
+              "file-browser",
+              "file-manager",
+              "rust",
+              "terminal",
+              "terminal-ui",
+              "tui"
+            ]
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
+        },
+        {
+          "node_type": "item",
           "title": "s3duck-tui",
           "description": "A TUI S3 client.",
           "children": [],
@@ -7096,8 +7283,8 @@
             "id": 582005480,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-05T21:55:19Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-13T14:09:39Z",
+            "open_issues": 0,
             "owner": "nexusriot",
             "repo": "s3duck-tui",
             "stars": 9,
@@ -7123,8 +7310,8 @@
             "id": 47593546,
             "language": "C",
             "license": null,
-            "last_commit": "2026-09-11T18:37:16Z",
-            "open_issues": 143,
+            "last_commit": "2026-09-13T12:45:03Z",
+            "open_issues": 144,
             "owner": "NetHack",
             "repo": "NetHack",
             "stars": 3904,
@@ -7152,7 +7339,7 @@
             "open_issues": 29,
             "owner": "taylorconor",
             "repo": "tinytetris",
-            "stars": 3290,
+            "stars": 3291,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -7173,7 +7360,7 @@
             "open_issues": 30,
             "owner": "lxgr-linux",
             "repo": "pokete",
-            "stars": 3153,
+            "stars": 3154,
             "topics": [
               "cli-game",
               "console-game",
@@ -7311,8 +7498,8 @@
             "id": 205895782,
             "language": "C",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-10T20:57:24Z",
-            "open_issues": 211,
+            "last_commit": "2026-09-13T20:36:59Z",
+            "open_issues": 210,
             "owner": "tmewett",
             "repo": "BrogueCE",
             "stars": 1454,
@@ -7341,7 +7528,7 @@
             "open_issues": 35,
             "owner": "thomas-mauran",
             "repo": "chess-tui",
-            "stars": 1174,
+            "stars": 1175,
             "topics": [
               "chess",
               "chess-puzzle",
@@ -7400,7 +7587,7 @@
             "open_issues": 0,
             "owner": "learnbyexample",
             "repo": "TUI-apps",
-            "stars": 1015,
+            "stars": 1014,
             "topics": [
               "exercises",
               "game",
@@ -7468,7 +7655,7 @@
             "open_issues": 6,
             "owner": "Strophox",
             "repo": "tetro-tui",
-            "stars": 755,
+            "stars": 756,
             "topics": [
               "console",
               "console-application",
@@ -7507,7 +7694,7 @@
             "open_issues": 4,
             "owner": "ricott1",
             "repo": "rebels-in-the-sky",
-            "stars": 736,
+            "stars": 737,
             "topics": [
               "basketball",
               "games",
@@ -7563,7 +7750,7 @@
             "open_issues": 10,
             "owner": "jifunks",
             "repo": "botany",
-            "stars": 548,
+            "stars": 549,
             "topics": [
               "cli",
               "curses",
@@ -7646,6 +7833,42 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
+        },
+        {
+          "node_type": "item",
+          "title": "cli-chess",
+          "description": "A highly customizable way to play chess in your terminal. Play online (via Lichess.org) and offline against the Fairy-Stockfish engine. All Lichess variants are supported.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A highly customizable way to play chess in your terminal. Play online (via Lichess.org) and offline against the Fairy-Stockfish engine. All Lichess variants are supported.",
+            "homepage": null,
+            "id": 332327422,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-30T21:25:32Z",
+            "open_issues": 16,
+            "owner": "trevorbayless",
+            "repo": "cli-chess",
+            "stars": 303,
+            "topics": [
+              "chess",
+              "cli",
+              "command-line",
+              "command-line-chess",
+              "command-line-game",
+              "fairy-stockfish",
+              "lichess",
+              "lichess-api",
+              "terminal",
+              "terminal-chess",
+              "terminal-game",
+              "tui",
+              "tui-game",
+              "uci"
+            ]
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
         },
         {
           "node_type": "item",
@@ -8228,6 +8451,37 @@
         },
         {
           "node_type": "item",
+          "title": "LeTrain",
+          "description": "Open-source procedural train simulator using Java 17, LibGDX and Lanterna.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The letter train simulator. Java version",
+            "homepage": null,
+            "id": 122837683,
+            "language": "Java",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-13T18:02:32Z",
+            "open_issues": 37,
+            "owner": "antoniovazquezaraujo",
+            "repo": "LeTrain",
+            "stars": 15,
+            "topics": [
+              "ascii",
+              "ascii-game",
+              "game",
+              "java",
+              "simulator",
+              "terminal",
+              "trains",
+              "video-game",
+              "video-games"
+            ]
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
+        },
+        {
+          "node_type": "item",
           "title": "onx",
           "description": "Noughts & Crosses client-server game with your partner. Based on textual and python.",
           "children": [],
@@ -8352,7 +8606,7 @@
             "open_issues": 0,
             "owner": "ps06756",
             "repo": "tui-2048",
-            "stars": 7,
+            "stars": 6,
             "topics": [
               "2048-game",
               "tui"
@@ -8441,7 +8695,7 @@
             "open_issues": 359,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37204,
+            "stars": 37210,
             "topics": [
               "cli",
               "framework",
@@ -8469,7 +8723,7 @@
             "open_issues": 718,
             "owner": "prompt-toolkit",
             "repo": "python-prompt-toolkit",
-            "stars": 10567,
+            "stars": 10570,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -8490,7 +8744,7 @@
             "open_issues": 329,
             "owner": "dankamongmen",
             "repo": "notcurses",
-            "stars": 4699,
+            "stars": 4701,
             "topics": [
               "c",
               "cli",
@@ -8538,7 +8792,7 @@
             "open_issues": 0,
             "owner": "bczsalba",
             "repo": "pytermgui",
-            "stars": 2672,
+            "stars": 2673,
             "topics": [
               "ansi",
               "ansi-escape-codes",
@@ -8570,8 +8824,8 @@
             "id": 17308448,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T18:58:04Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-13T20:36:40Z",
+            "open_issues": 2,
             "owner": "jquast",
             "repo": "blessed",
             "stars": 1499,
@@ -8778,6 +9032,27 @@
         },
         {
           "node_type": "item",
+          "title": "animpy",
+          "description": "Terminal animations in Python without the pain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This is my module for animating text in the Python terminal",
+            "homepage": "https://13doespython.github.io/animpy/",
+            "id": 1178201366,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2026-09-12T08:54:38Z",
+            "open_issues": 0,
+            "owner": "13DoesPython",
+            "repo": "animpy",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
+        },
+        {
+          "node_type": "item",
           "title": "bubbletea",
           "description": "A Go framework based on Elm to build functional and fun terminal apps",
           "children": [],
@@ -8789,10 +9064,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-09T19:37:49Z",
-            "open_issues": 219,
+            "open_issues": 220,
             "owner": "charmbracelet",
             "repo": "bubbletea",
-            "stars": 44918,
+            "stars": 44927,
             "topics": [
               "cli",
               "elm-architecture",
@@ -8822,7 +9097,7 @@
             "open_issues": 96,
             "owner": "rivo",
             "repo": "tview",
-            "stars": 14096,
+            "stars": 14097,
             "topics": [
               "golang",
               "terminal-based",
@@ -8847,7 +9122,7 @@
             "open_issues": 59,
             "owner": "jroimartin",
             "repo": "gocui",
-            "stars": 10604,
+            "stars": 10602,
             "topics": [
               "cui",
               "go",
@@ -8958,7 +9233,7 @@
             "open_issues": 2,
             "owner": "76creates",
             "repo": "stickers",
-            "stars": 400,
+            "stars": 401,
             "topics": [
               "go",
               "golang",
@@ -8983,10 +9258,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-09-08T16:02:49Z",
-            "open_issues": 240,
+            "open_issues": 239,
             "owner": "libuv",
             "repo": "libuv",
-            "stars": 27164,
+            "stars": 27163,
             "topics": [
               "asynchronous",
               "deep-io",
@@ -9054,11 +9329,11 @@
             "id": 167828165,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-12T18:23:28Z",
-            "open_issues": 96,
+            "last_commit": "2026-09-13T16:09:51Z",
+            "open_issues": 95,
             "owner": "ArthurSonzogni",
             "repo": "FTXUI",
-            "stars": 10664,
+            "stars": 10673,
             "topics": [
               "arthursonzogni",
               "ascii",
@@ -9092,7 +9367,7 @@
             "open_issues": 21,
             "owner": "ggerganov",
             "repo": "imtui",
-            "stars": 3619,
+            "stars": 3620,
             "topics": [
               "text",
               "tui",
@@ -9118,7 +9393,7 @@
             "open_issues": 49,
             "owner": "magiblot",
             "repo": "tvision",
-            "stars": 3152,
+            "stars": 3155,
             "topics": [
               "ascii",
               "borland",
@@ -9190,7 +9465,7 @@
             "open_issues": 26,
             "owner": "agauniyal",
             "repo": "rang",
-            "stars": 1594,
+            "stars": 1595,
             "topics": [
               "ansi",
               "cli",
@@ -9221,7 +9496,7 @@
             "id": 34996446,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-11T20:27:05Z",
+            "last_commit": "2026-09-13T20:09:58Z",
             "open_issues": 12,
             "owner": "gansm",
             "repo": "finalcut",
@@ -9263,7 +9538,7 @@
             "id": 170525609,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-11T13:01:04Z",
+            "last_commit": "2026-09-12T22:51:28Z",
             "open_issues": 98,
             "owner": "gammasoft71",
             "repo": "xtd",
@@ -9521,7 +9796,7 @@
             "open_issues": 181,
             "owner": "spectreconsole",
             "repo": "spectre.console",
-            "stars": 11618,
+            "stars": 11617,
             "topics": [
               "ansi-colors",
               "cli-parser",
@@ -9549,10 +9824,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-11T12:37:17Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "tui-cs",
             "repo": "Terminal.Gui",
-            "stars": 11209,
+            "stars": 11208,
             "topics": [
               "console",
               "console-application",
@@ -9580,8 +9855,8 @@
             "id": 424594639,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-12T08:33:04Z",
-            "open_issues": 52,
+            "last_commit": "2026-09-13T20:47:53Z",
+            "open_issues": 51,
             "owner": "Consolonia",
             "repo": "Consolonia",
             "stars": 826,
@@ -9636,8 +9911,8 @@
             "id": 1111094078,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-11T04:41:18Z",
-            "open_issues": 121,
+            "last_commit": "2026-09-13T12:40:47Z",
+            "open_issues": 118,
             "owner": "mitchdenny",
             "repo": "hex1b",
             "stars": 175,
@@ -9695,10 +9970,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-11T00:14:49Z",
-            "open_issues": 216,
+            "open_issues": 217,
             "owner": "ratatui",
             "repo": "ratatui",
-            "stars": 22563,
+            "stars": 22575,
             "topics": [
               "cli",
               "ratatui",
@@ -9831,7 +10106,7 @@
             "open_issues": 29,
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 39864,
+            "stars": 39871,
             "topics": [
               "cli",
               "command-line",
@@ -9859,7 +10134,7 @@
             "open_issues": 207,
             "owner": "charmbracelet",
             "repo": "gum",
-            "stars": 24368,
+            "stars": 24370,
             "topics": [
               "bash",
               "shell"
@@ -9879,11 +10154,11 @@
             "id": 1023522611,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T13:45:55Z",
-            "open_issues": 138,
+            "last_commit": "2026-09-13T19:09:55Z",
+            "open_issues": 140,
             "owner": "anomalyco",
             "repo": "opentui",
-            "stars": 13288,
+            "stars": 13296,
             "topics": [
               "opencode",
               "opentui",
@@ -9908,7 +10183,7 @@
             "open_issues": 256,
             "owner": "chjj",
             "repo": "blessed",
-            "stars": 11886,
+            "stars": 11887,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -9929,7 +10204,7 @@
             "open_issues": 18,
             "owner": "termbox",
             "repo": "termbox2",
-            "stars": 766,
+            "stars": 767,
             "topics": [
               "curses",
               "ncurses",
@@ -10051,6 +10326,38 @@
         },
         {
           "node_type": "item",
+          "title": "TermDOM",
+          "description": "A JavaScript library that displays HTML and CSS in the terminal, with a real DOM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Build terminal apps with HTML, CSS and DOM.",
+            "homepage": "https://termdom.org",
+            "id": 1042920393,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-13T19:16:24Z",
+            "open_issues": 16,
+            "owner": "bikeshaving",
+            "repo": "termdom",
+            "stars": 285,
+            "topics": [
+              "ansi",
+              "bun",
+              "cli",
+              "deno",
+              "dom",
+              "javascript",
+              "node",
+              "terminal",
+              "tui",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
+        },
+        {
+          "node_type": "item",
           "title": "Ashen",
           "description": "An Elm inspired framework written in Swift",
           "children": [],
@@ -10133,6 +10440,46 @@
             ]
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Raxol",
+          "description": "A multi-surface runtime for Elixir: one application renders to the terminal, browser, SSH, and agent surfaces, with per-component crash isolation and hot reload from the BEAM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "raxol.io - one Elixir module, every surface. The terminal for your Gundam.",
+            "homepage": "https://raxol.io/",
+            "id": 949664843,
+            "language": "Elixir",
+            "license": "MIT",
+            "last_commit": "2026-09-13T19:46:30Z",
+            "open_issues": 56,
+            "owner": "DROOdotFOO",
+            "repo": "raxol",
+            "stars": 76,
+            "topics": [
+              "agent-ui",
+              "agentic-commerce",
+              "ai-agents",
+              "beam",
+              "crdt",
+              "distributed-systems",
+              "elixir",
+              "elm-architecture",
+              "flexbox",
+              "hot-reload",
+              "liveview",
+              "mcp",
+              "multi-surface",
+              "otp",
+              "session-recording",
+              "ssh",
+              "time-travel-debugging",
+              "widgets"
+            ]
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
         }
       ],
       "title": "Libraries"
@@ -10180,11 +10527,11 @@
             "id": 386913925,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-10T01:11:49Z",
+            "last_commit": "2026-09-12T21:30:44Z",
             "open_issues": 54,
             "owner": "ayn2op",
             "repo": "discordo",
-            "stars": 5773,
+            "stars": 5771,
             "topics": [
               "client",
               "cross-platform",
@@ -10252,7 +10599,7 @@
             "open_issues": 0,
             "owner": "markqvist",
             "repo": "NomadNet",
-            "stars": 2519,
+            "stars": 2521,
             "topics": [
               "lora",
               "lxmf",
@@ -10309,7 +10656,7 @@
             "open_issues": 41,
             "owner": "supreme-gg-gg",
             "repo": "instagram-cli",
-            "stars": 2134,
+            "stars": 2136,
             "topics": [
               "brainrot",
               "cli",
@@ -10329,7 +10676,7 @@
         {
           "node_type": "item",
           "title": "nchat",
-          "description": "Telegram/WhatsApp client",
+          "description": "Telegram/WhatsApp/Signal client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10342,7 +10689,7 @@
             "open_issues": 16,
             "owner": "d99kris",
             "repo": "nchat",
-            "stars": 1947,
+            "stars": 1948,
             "topics": [
               "console",
               "linux",
@@ -10371,8 +10718,8 @@
             "id": 122756383,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-12T19:48:12Z",
-            "open_issues": 79,
+            "last_commit": "2026-09-13T16:45:14Z",
+            "open_issues": 78,
             "owner": "gomuks",
             "repo": "gomuks",
             "stars": 1720,
@@ -10397,10 +10744,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-09-12T15:26:13Z",
-            "open_issues": 44,
+            "open_issues": 47,
             "owner": "chojs23",
             "repo": "concord",
-            "stars": 1480,
+            "stars": 1483,
             "topics": [
               "chat-client",
               "cli",
@@ -10428,7 +10775,7 @@
             "language": "Rust",
             "license": "AGPL-3.0",
             "last_commit": "2026-07-29T08:01:48Z",
-            "open_issues": 101,
+            "open_issues": 102,
             "owner": "boxdot",
             "repo": "gurk-rs",
             "stars": 1374,
@@ -10448,8 +10795,8 @@
             "id": 693752164,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T02:01:14Z",
-            "open_issues": 42,
+            "last_commit": "2026-09-13T19:50:36Z",
+            "open_issues": 41,
             "owner": "erikjuhani",
             "repo": "basalt",
             "stars": 1348,
@@ -10599,10 +10946,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T17:52:06Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "sparklost",
             "repo": "endcord",
-            "stars": 984,
+            "stars": 987,
             "topics": [
               "cross-platform",
               "discord",
@@ -10658,7 +11005,7 @@
             "open_issues": 475,
             "owner": "zulip",
             "repo": "zulip-terminal",
-            "stars": 863,
+            "stars": 864,
             "topics": [
               "chat",
               "collaboration",
@@ -10947,8 +11294,8 @@
             "id": 737144601,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-12T16:56:20Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-12T23:56:25Z",
+            "open_issues": 30,
             "owner": "akiomik",
             "repo": "nostui",
             "stars": 71,
@@ -11030,6 +11377,41 @@
             ]
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
+        },
+        {
+          "node_type": "item",
+          "title": "local-chat",
+          "description": "Terminal chat for everyone on the same WiFi, nothing to host, no accounts, no messages written to disk",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Terminal chat for everyone on the same WiFi. One command, no accounts, no server. Press Tab for boss mode.",
+            "homepage": "https://www.npmjs.com/package/local-chat",
+            "id": 1166220625,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-10T06:01:20Z",
+            "open_issues": 0,
+            "owner": "DongGunYoon",
+            "repo": "local-chat",
+            "stars": 2,
+            "topics": [
+              "chat",
+              "cli",
+              "ink",
+              "lan",
+              "local-network",
+              "nodejs",
+              "npx",
+              "p2p",
+              "terminal",
+              "tui",
+              "typescript",
+              "websocket",
+              "wifi"
+            ]
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
         }
       ],
       "title": "Messaging"
@@ -11049,11 +11431,11 @@
             "id": 13807606,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-12T00:35:44Z",
-            "open_issues": 329,
+            "last_commit": "2026-09-13T10:31:45Z",
+            "open_issues": 328,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82945,
+            "stars": 82963,
             "topics": [
               "bash",
               "cli",
@@ -11085,7 +11467,7 @@
             "open_issues": 330,
             "owner": "chubin",
             "repo": "wttr.in",
-            "stars": 30522,
+            "stars": 30528,
             "topics": [
               "ascii-art",
               "curl",
@@ -11234,7 +11616,7 @@
             "open_issues": 10,
             "owner": "mmulet",
             "repo": "term.everything",
-            "stars": 8100,
+            "stars": 8099,
             "topics": [
               "alacritty",
               "cli",
@@ -11266,7 +11648,7 @@
             "open_issues": 18,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6411,
+            "stars": 6415,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -11298,10 +11680,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-10T13:53:08Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "dundee",
             "repo": "gdu",
-            "stars": 5973,
+            "stars": 5974,
             "topics": [
               "cli",
               "disk-usage",
@@ -11325,10 +11707,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-08-25T05:41:41Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "sayanarijit",
             "repo": "xplr",
-            "stars": 4823,
+            "stars": 4822,
             "topics": [
               "cli",
               "command-line",
@@ -11367,7 +11749,7 @@
             "open_issues": 106,
             "owner": "x-cmd",
             "repo": "x-cmd",
-            "stars": 4649,
+            "stars": 4651,
             "topics": [
               "agent",
               "ai",
@@ -11396,7 +11778,7 @@
             "open_issues": 59,
             "owner": "YS-L",
             "repo": "csvlens",
-            "stars": 3963,
+            "stars": 3964,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -11414,10 +11796,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-11T12:46:23Z",
-            "open_issues": 431,
+            "open_issues": 430,
             "owner": "util-linux",
             "repo": "util-linux",
-            "stars": 3229,
+            "stars": 3230,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -11465,7 +11847,7 @@
             "open_issues": 18,
             "owner": "pythops",
             "repo": "bluetui",
-            "stars": 3001,
+            "stars": 3004,
             "topics": [
               "bluetooth",
               "bluez",
@@ -11520,7 +11902,7 @@
             "open_issues": 0,
             "owner": "pythops",
             "repo": "impala",
-            "stars": 2847,
+            "stars": 2849,
             "topics": [
               "iwd",
               "linux",
@@ -11549,7 +11931,7 @@
             "open_issues": 60,
             "owner": "Piebald-AI",
             "repo": "tweakcc",
-            "stars": 2495,
+            "stars": 2499,
             "topics": [
               "agentic",
               "anthropic",
@@ -11588,10 +11970,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-09-10T18:52:52Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "ifd3f",
             "repo": "caligula",
-            "stars": 2315,
+            "stars": 2320,
             "topics": [
               "disk-image",
               "rust",
@@ -11616,7 +11998,7 @@
             "open_issues": 11,
             "owner": "kraanzu",
             "repo": "smassh",
-            "stars": 2045,
+            "stars": 2046,
             "topics": [
               "monkeytype",
               "python3",
@@ -11647,7 +12029,7 @@
             "open_issues": 4,
             "owner": "PabloLec",
             "repo": "RecoverPy",
-            "stars": 1789,
+            "stars": 1788,
             "topics": [
               "cli",
               "console",
@@ -11689,7 +12071,7 @@
             "open_issues": 14,
             "owner": "orhun",
             "repo": "gpg-tui",
-            "stars": 1761,
+            "stars": 1762,
             "topics": [
               "cli",
               "gnupg",
@@ -11754,11 +12136,11 @@
             "id": 960996053,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-12T01:35:30Z",
+            "last_commit": "2026-09-13T16:26:15Z",
             "open_issues": 5,
             "owner": "matheus-git",
             "repo": "systemd-manager-tui",
-            "stars": 1580,
+            "stars": 1581,
             "topics": [
               "manager",
               "rust",
@@ -11813,7 +12195,7 @@
             "open_issues": 6,
             "owner": "poetaman",
             "repo": "arttime",
-            "stars": 1386,
+            "stars": 1385,
             "topics": [
               "ansi",
               "ansi-art",
@@ -11880,7 +12262,7 @@
             "open_issues": 0,
             "owner": "learnbyexample",
             "repo": "TUI-apps",
-            "stars": 1015,
+            "stars": 1014,
             "topics": [
               "exercises",
               "game",
@@ -11967,10 +12349,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-07T16:50:42Z",
-            "open_issues": 5,
+            "open_issues": 7,
             "owner": "0xjuanma",
             "repo": "golazo",
-            "stars": 859,
+            "stars": 860,
             "topics": [
               "bubbletea",
               "charmbracelet",
@@ -12053,7 +12435,7 @@
             "id": 1126657148,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-12T11:59:05Z",
+            "last_commit": "2026-09-13T20:26:57Z",
             "open_issues": 25,
             "owner": "Harry-kp",
             "repo": "vortix",
@@ -12125,7 +12507,7 @@
             "open_issues": 17,
             "owner": "nemuTUI",
             "repo": "nemu",
-            "stars": 605,
+            "stars": 606,
             "topics": [
               "ncurses-ui",
               "qemu",
@@ -12340,6 +12722,27 @@
         },
         {
           "node_type": "item",
+          "title": "sbb-tui",
+          "description": "TUI client for Switzerland's public transport timetables, inspidered by the SBB/CFF/FFS app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "TUI client for Switzerland's public transport timetables, inspidered by the SBB/CFF/FFS app",
+            "homepage": null,
+            "id": 1134925885,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-08-19T08:06:53Z",
+            "open_issues": 12,
+            "owner": "Necrom4",
+            "repo": "sbb-tui",
+            "stars": 326,
+            "topics": []
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
+        },
+        {
+          "node_type": "item",
           "title": "packemon",
           "description": "Packet generator and monitor.",
           "children": [],
@@ -12350,8 +12753,8 @@
             "id": 792322009,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-12T12:03:44Z",
-            "open_issues": 33,
+            "last_commit": "2026-09-13T01:23:33Z",
+            "open_issues": 35,
             "owner": "ddddddO",
             "repo": "packemon",
             "stars": 307,
@@ -12811,6 +13214,40 @@
         },
         {
           "node_type": "item",
+          "title": "oeis-tui",
+          "description": "A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.",
+            "homepage": null,
+            "id": 1089837450,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-02-03T13:08:52Z",
+            "open_issues": 0,
+            "owner": "hako",
+            "repo": "oeis-tui",
+            "stars": 92,
+            "topics": [
+              "cli",
+              "graphs",
+              "integers",
+              "math",
+              "mathematics",
+              "numbers",
+              "oeis",
+              "ratatui",
+              "rust",
+              "sequences",
+              "terminal",
+              "tui"
+            ]
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
+        },
+        {
+          "node_type": "item",
           "title": "HumBLE Explorer",
           "description": "A cross-platform, command-line and human-friendly Bluetooth Low Energy scanner",
           "children": [],
@@ -12949,7 +13386,7 @@
             "open_issues": 3,
             "owner": "leo-arch",
             "repo": "fnf",
-            "stars": 53,
+            "stars": 52,
             "topics": [
               "console",
               "finder",
@@ -12961,6 +13398,38 @@
             ]
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ytunnel",
+          "description": "A TUI for creating and managing Cloudflare Tunnels with custom domains",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A TUI-first CLI for managing Cloudflare Tunnels with custom domains",
+            "homepage": "https://yetidevworks.com/ytunnel",
+            "id": 1138291716,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-08-05T18:16:05Z",
+            "open_issues": 0,
+            "owner": "yetidevworks",
+            "repo": "ytunnel",
+            "stars": 52,
+            "topics": [
+              "cli",
+              "cloudflare",
+              "cloudflare-tunnel",
+              "networking",
+              "ngrok-alternative",
+              "ratatui",
+              "rust",
+              "terminal",
+              "tui",
+              "tunnel"
+            ]
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
         },
         {
           "node_type": "item",
@@ -13236,11 +13705,11 @@
             "id": 3299208,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-12T19:47:49Z",
+            "last_commit": "2026-09-13T17:28:27Z",
             "open_issues": 2,
             "owner": "videolan",
             "repo": "vlc",
-            "stars": 19615,
+            "stars": 19628,
             "topics": [
               "c",
               "framework",
@@ -13269,7 +13738,7 @@
             "open_issues": 227,
             "owner": "mps-youtube",
             "repo": "yewtube",
-            "stars": 8791,
+            "stars": 8790,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -13290,7 +13759,7 @@
             "open_issues": 154,
             "owner": "aome510",
             "repo": "spotify-player",
-            "stars": 7203,
+            "stars": 7205,
             "topics": [
               "cli",
               "music",
@@ -13370,11 +13839,11 @@
             "id": 641756237,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-12T10:22:05Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-13T09:39:59Z",
+            "open_issues": 1,
             "owner": "ravachol",
             "repo": "kew",
-            "stars": 3057,
+            "stars": 3062,
             "topics": [
               "audio-player",
               "command-line",
@@ -13406,7 +13875,7 @@
             "open_issues": 36,
             "owner": "hzeller",
             "repo": "timg",
-            "stars": 2753,
+            "stars": 2754,
             "topics": [
               "ascii-art",
               "gif",
@@ -13441,11 +13910,11 @@
             "id": 372752273,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T00:16:55Z",
-            "open_issues": 53,
+            "last_commit": "2026-09-13T11:59:55Z",
+            "open_issues": 52,
             "owner": "tramhao",
             "repo": "termusic",
-            "stars": 2202,
+            "stars": 2203,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -13466,7 +13935,7 @@
             "open_issues": 42,
             "owner": "itsjunetime",
             "repo": "tdf",
-            "stars": 1960,
+            "stars": 1961,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -13487,7 +13956,7 @@
             "open_issues": 168,
             "owner": "tizonia",
             "repo": "tizonia-openmax-il",
-            "stars": 1740,
+            "stars": 1741,
             "topics": [
               "audio-streaming",
               "chromecast",
@@ -13539,11 +14008,11 @@
             "id": 1093624725,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-10T13:19:30Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-13T17:42:35Z",
+            "open_issues": 33,
             "owner": "LargeModGames",
             "repo": "spotatui",
-            "stars": 1336,
+            "stars": 1341,
             "topics": [
               "audio-visualization",
               "cli",
@@ -13675,7 +14144,7 @@
             "open_issues": 16,
             "owner": "viu-media",
             "repo": "viu",
-            "stars": 1079,
+            "stars": 1078,
             "topics": [
               "anilist",
               "anime",
@@ -13729,7 +14198,7 @@
             "open_issues": 24,
             "owner": "josueBarretogit",
             "repo": "manga-tui",
-            "stars": 929,
+            "stars": 930,
             "topics": [
               "anilist",
               "anime",
@@ -13881,11 +14350,11 @@
             "id": 805222652,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-12T08:34:06Z",
+            "last_commit": "2026-09-13T19:01:21Z",
             "open_issues": 28,
             "owner": "dhonus",
             "repo": "jellyfin-tui",
-            "stars": 589,
+            "stars": 590,
             "topics": [
               "jellyfin",
               "mpv",
@@ -14294,7 +14763,7 @@
             "id": 480754281,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-12T15:54:00Z",
+            "last_commit": "2026-09-13T17:48:51Z",
             "open_issues": 1,
             "owner": "gmt4",
             "repo": "mpvc",
@@ -14712,6 +15181,35 @@
         },
         {
           "node_type": "item",
+          "title": "sgram-tui",
+          "description": "Calibrated spectrogram analyzer for live mic or audio files, with labeled PNG figure export and a headless render mode",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Calibrated spectrogram analyzer for the terminal — live mic or audio files, labeled PNG figure export, headless render mode",
+            "homepage": null,
+            "id": 1094132978,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-08-16T22:16:53Z",
+            "open_issues": 0,
+            "owner": "arian-shamaei",
+            "repo": "sgram-tui",
+            "stars": 4,
+            "topics": [
+              "audio",
+              "audio-analysis",
+              "dsp",
+              "ratatui",
+              "rust",
+              "spectrogram",
+              "tui"
+            ]
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
+        },
+        {
+          "node_type": "item",
           "title": "favicon-editor",
           "description": "Spartan grayscale favicon editor",
           "children": [],
@@ -14757,10 +15255,10 @@
             "language": "C",
             "license": "ISC",
             "last_commit": "2026-09-11T17:00:21Z",
-            "open_issues": 32,
+            "open_issues": 34,
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 49209,
+            "stars": 49224,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -14778,10 +15276,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-09T17:16:46Z",
-            "open_issues": 1916,
+            "open_issues": 1917,
             "owner": "zellij-org",
             "repo": "zellij",
-            "stars": 35391,
+            "stars": 35402,
             "topics": [
               "multiplexer",
               "terminal",
@@ -14806,7 +15304,7 @@
             "open_issues": 232,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27282,
+            "stars": 27292,
             "topics": [
               "cli",
               "excitement",
@@ -14832,7 +15330,7 @@
             "open_issues": 77,
             "owner": "maaslalani",
             "repo": "slides",
-            "stars": 11657,
+            "stars": 11658,
             "topics": [
               "markdown",
               "presentation",
@@ -14855,10 +15353,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-08-28T00:09:56Z",
-            "open_issues": 88,
+            "open_issues": 89,
             "owner": "saulpw",
             "repo": "visidata",
-            "stars": 9274,
+            "stars": 9275,
             "topics": [
               "cli",
               "csv",
@@ -14898,7 +15396,7 @@
             "open_issues": 78,
             "owner": "mfontanini",
             "repo": "presenterm",
-            "stars": 8832,
+            "stars": 8834,
             "topics": [
               "cli",
               "markdown",
@@ -14954,7 +15452,7 @@
             "open_issues": 78,
             "owner": "alexpasmantier",
             "repo": "television",
-            "stars": 6260,
+            "stars": 6263,
             "topics": [
               "cli",
               "command-line-tool",
@@ -15014,7 +15512,7 @@
             "id": 9301414,
             "language": "Haskell",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-12T15:28:19Z",
+            "last_commit": "2026-09-13T19:01:45Z",
             "open_issues": 326,
             "owner": "hledgerorg",
             "repo": "hledger",
@@ -15052,7 +15550,7 @@
             "open_issues": 66,
             "owner": "Adembc",
             "repo": "lazyssh",
-            "stars": 3932,
+            "stars": 3935,
             "topics": [
               "cli",
               "go",
@@ -15108,11 +15606,11 @@
             "id": 1051789550,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-11T12:59:45Z",
+            "last_commit": "2026-09-13T18:29:53Z",
             "open_issues": 31,
             "owner": "Gaurav-Gosain",
             "repo": "tuios",
-            "stars": 3626,
+            "stars": 3632,
             "topics": [
               "bubbletea",
               "charm",
@@ -15140,7 +15638,7 @@
             "open_issues": 18,
             "owner": "shshemi",
             "repo": "tabiew",
-            "stars": 3101,
+            "stars": 3100,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -15161,7 +15659,7 @@
             "open_issues": 2,
             "owner": "veeso",
             "repo": "termscp",
-            "stars": 3078,
+            "stars": 3080,
             "topics": [
               "aws-s3",
               "command-line-tool",
@@ -15229,7 +15727,7 @@
             "open_issues": 18,
             "owner": "EnhancedJax",
             "repo": "Bagels",
-            "stars": 2903,
+            "stars": 2904,
             "topics": [
               "cli",
               "expense-tracker",
@@ -15260,7 +15758,7 @@
             "open_issues": 23,
             "owner": "jaspervdj",
             "repo": "patat",
-            "stars": 2741,
+            "stars": 2742,
             "topics": [
               "haskell",
               "markdown",
@@ -15327,10 +15825,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-29T01:56:46Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "anufrievroman",
             "repo": "calcure",
-            "stars": 2355,
+            "stars": 2354,
             "topics": [
               "calendar",
               "python",
@@ -15359,7 +15857,7 @@
             "open_issues": 4,
             "owner": "nadrad",
             "repo": "h-m-m",
-            "stars": 2290,
+            "stars": 2289,
             "topics": [
               "mindmap",
               "mindmapping",
@@ -15380,11 +15878,11 @@
             "id": 281581923,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-06T17:13:40Z",
+            "last_commit": "2026-09-13T17:13:40Z",
             "open_issues": 134,
             "owner": "kdheepak",
             "repo": "taskwarrior-tui",
-            "stars": 2123,
+            "stars": 2125,
             "topics": [
               "cli",
               "rust",
@@ -15407,8 +15905,8 @@
             "id": 1031945919,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T16:10:27Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-13T19:01:18Z",
+            "open_issues": 12,
             "owner": "whyisdifficult",
             "repo": "jiratui",
             "stars": 1694,
@@ -15540,7 +16038,7 @@
             "open_issues": 5,
             "owner": "Julien-cpsn",
             "repo": "desktop-tui",
-            "stars": 1216,
+            "stars": 1217,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -15558,10 +16056,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-06-09T13:16:46Z",
-            "open_issues": 45,
+            "open_issues": 46,
             "owner": "savedra1",
             "repo": "clipse",
-            "stars": 1038,
+            "stars": 1039,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -15665,11 +16163,11 @@
             "id": 1109341946,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-12T18:45:23Z",
-            "open_issues": 116,
+            "last_commit": "2026-09-13T20:38:54Z",
+            "open_issues": 112,
             "owner": "asheshgoplani",
             "repo": "agent-deck",
-            "stars": 875,
+            "stars": 882,
             "topics": [
               "ai-agent",
               "ai-agents",
@@ -15739,7 +16237,7 @@
             "open_issues": 113,
             "owner": "pimutils",
             "repo": "todoman",
-            "stars": 592,
+            "stars": 591,
             "topics": [
               "caldav",
               "icalendar",
@@ -15813,7 +16311,7 @@
             "open_issues": 4,
             "owner": "Bahaaio",
             "repo": "pomo",
-            "stars": 503,
+            "stars": 504,
             "topics": [
               "bubble-tea",
               "bubbletea",
@@ -16056,6 +16554,37 @@
         },
         {
           "node_type": "item",
+          "title": "budget-tracker-tui",
+          "description": "A TUI budget tracker app designed to track income, expenses, investments, budget goals and visualize / gather insights.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.",
+            "homepage": "https://crates.io/crates/budget-tracker-tui",
+            "id": 967092659,
+            "language": "Rust",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-10T21:00:06Z",
+            "open_issues": 9,
+            "owner": "Feromond",
+            "repo": "budget-tracker-tui",
+            "stars": 324,
+            "topics": [
+              "budget",
+              "budget-tracker",
+              "budgeting",
+              "finance",
+              "ratatui",
+              "ratatui-rs",
+              "rust",
+              "tui",
+              "tui-rs"
+            ]
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
+        },
+        {
+          "node_type": "item",
           "title": "tvterm",
           "description": "A terminal emulator that runs in your terminal",
           "children": [],
@@ -16070,7 +16599,7 @@
             "open_issues": 8,
             "owner": "magiblot",
             "repo": "tvterm",
-            "stars": 279,
+            "stars": 280,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -16091,7 +16620,7 @@
             "open_issues": 15,
             "owner": "mpryor",
             "repo": "nothing-less",
-            "stars": 278,
+            "stars": 279,
             "topics": [
               "cli",
               "datawrangling",
@@ -16126,7 +16655,7 @@
             "open_issues": 22,
             "owner": "mk-5",
             "repo": "fjira",
-            "stars": 273,
+            "stars": 274,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -16270,7 +16799,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-05-27T06:13:16Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "SourcewareLab",
             "repo": "Toney",
             "stars": 207,
@@ -16301,7 +16830,7 @@
             "id": 1073368386,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T19:52:17Z",
+            "last_commit": "2026-09-13T17:33:56Z",
             "open_issues": 8,
             "owner": "kanban-rs",
             "repo": "kanban",
@@ -16655,6 +17184,33 @@
         },
         {
           "node_type": "item",
+          "title": "linear-tui",
+          "description": "A terminal user interface for Linear built with Go and tview.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A terminal user interface (TUI) for Linear built with Go and tview.",
+            "homepage": null,
+            "id": 1133762269,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-09-08T09:19:51Z",
+            "open_issues": 2,
+            "owner": "roeyazroel",
+            "repo": "linear-tui",
+            "stars": 59,
+            "topics": [
+              "golang",
+              "linear",
+              "terminal",
+              "tui",
+              "tview"
+            ]
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
+        },
+        {
+          "node_type": "item",
           "title": "pdiary",
           "description": "A simple terminal diary journal application written in Python with encryption support",
           "children": [],
@@ -16808,7 +17364,7 @@
             "open_issues": 0,
             "owner": "NicoDblc",
             "repo": "TUI_ProjectManager",
-            "stars": 34,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -17070,14 +17626,35 @@
             "id": 1128585402,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-05T20:41:12Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-13T15:55:59Z",
+            "open_issues": 1,
             "owner": "404Simon",
             "repo": "tuidict",
             "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Bada",
+          "description": "A minimalist, Vim-first task manager designed to help you focus without distraction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "TUI-first todo app",
+            "homepage": null,
+            "id": 1123558061,
+            "language": "Go",
+            "license": null,
+            "last_commit": "2026-08-17T02:00:40Z",
+            "open_issues": 0,
+            "owner": "Han8931",
+            "repo": "bada",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
         },
         {
           "node_type": "item",
@@ -17099,6 +17676,70 @@
             "topics": []
           },
           "first_seen": "2026-09-01T21:08:35.123Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Paca",
+          "description": "Task, timer, and Stripe invoicing for projects, with local-first SQLite storage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple tui app for task, timer and invoicing for projects.",
+            "homepage": "https://www.npmjs.com/package/pacatui",
+            "id": 1137234779,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-07-27T17:58:22Z",
+            "open_issues": 0,
+            "owner": "wes",
+            "repo": "paca",
+            "stars": 1,
+            "topics": [
+              "bun",
+              "cli",
+              "invoicing",
+              "productivity",
+              "project-management",
+              "stripe",
+              "task-manager",
+              "terminal",
+              "time-tracking",
+              "timesheet",
+              "todo",
+              "tui"
+            ]
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Tomatui",
+          "description": "A Pomodoro timer with a full-screen TUI, a minimal one-line mode, and local session statistics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A terminal Pomodoro timer with a one-line mode, a full-screen display, and local focus statistics.",
+            "homepage": null,
+            "id": 1175129209,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-09-11T19:13:29Z",
+            "open_issues": 0,
+            "owner": "Hiro-Chiba",
+            "repo": "tomatui",
+            "stars": 0,
+            "topics": [
+              "cli",
+              "pomodoro",
+              "pomodoro-timer",
+              "productivity",
+              "rust",
+              "terminal-ui",
+              "timer",
+              "tui"
+            ]
+          },
+          "first_seen": "2026-09-13T20:56:49.209Z"
         }
       ],
       "title": "Productivity"
@@ -17122,7 +17763,7 @@
             "open_issues": 12,
             "owner": "unhappychoice",
             "repo": "gitlogue",
-            "stars": 4970,
+            "stars": 4974,
             "topics": [
               "cli",
               "cli-tool",
@@ -17164,7 +17805,7 @@
             "open_issues": 20,
             "owner": "Veirt",
             "repo": "weathr",
-            "stars": 3045,
+            "stars": 3046,
             "topics": [
               "cli",
               "rust-lang",
@@ -17191,7 +17832,7 @@
             "open_issues": 38,
             "owner": "da-luce",
             "repo": "astroterm",
-            "stars": 2041,
+            "stars": 2042,
             "topics": [
               "ascii",
               "ascii-art",
@@ -17296,7 +17937,7 @@
             "open_issues": 90,
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19491,
+            "stars": 19494,
             "topics": [
               "browser",
               "chromium",
@@ -17321,7 +17962,7 @@
             "open_issues": 241,
             "owner": "browsh-org",
             "repo": "browsh",
-            "stars": 19035,
+            "stars": 19038,
             "topics": [
               "bandwidth-saver",
               "http-performance",
@@ -17345,11 +17986,11 @@
             "id": 2502638,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-11T10:06:00Z",
+            "last_commit": "2026-09-13T09:52:32Z",
             "open_issues": 380,
             "owner": "rakshasa",
             "repo": "rtorrent",
-            "stars": 4859,
+            "stars": 4860,
             "topics": [
               "bittorrent",
               "bittorrent-client",
@@ -17409,11 +18050,11 @@
             "id": 103850235,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-12T16:02:25Z",
+            "last_commit": "2026-09-13T10:17:31Z",
             "open_issues": 413,
             "owner": "newsboat",
             "repo": "newsboat",
-            "stars": 3905,
+            "stars": 3906,
             "topics": [
               "atom-feed-reader",
               "newsbeuter",
@@ -17434,11 +18075,11 @@
             "id": 1085475816,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-11T01:33:02Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-13T15:37:29Z",
+            "open_issues": 57,
             "owner": "SurgeDM",
             "repo": "Surge",
-            "stars": 3518,
+            "stars": 3521,
             "topics": [
               "cli",
               "download-manager",
@@ -17494,7 +18135,7 @@
             "open_issues": 9,
             "owner": "LucasPickering",
             "repo": "slumber",
-            "stars": 1227,
+            "stars": 1228,
             "topics": [
               "http",
               "http-client",
@@ -17522,7 +18163,7 @@
             "open_issues": 79,
             "owner": "tats",
             "repo": "w3m",
-            "stars": 1079,
+            "stars": 1080,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:33.744Z"
@@ -17573,7 +18214,7 @@
             "open_issues": 3,
             "owner": "christo-auer",
             "repo": "eilmeldung",
-            "stars": 1004,
+            "stars": 1003,
             "topics": [
               "command-line",
               "commandline",
@@ -17634,7 +18275,7 @@
             "open_issues": 16,
             "owner": "Beastwick18",
             "repo": "nyaa",
-            "stars": 694,
+            "stars": 695,
             "topics": [
               "anime",
               "cli",
@@ -17719,7 +18360,7 @@
             "id": 992862231,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-31T21:33:54Z",
+            "last_commit": "2026-09-13T12:59:49Z",
             "open_issues": 23,
             "owner": "crocidb",
             "repo": "bulletty",
@@ -17785,7 +18426,7 @@
             "open_issues": 1,
             "owner": "timkicker",
             "repo": "podliner",
-            "stars": 169,
+            "stars": 170,
             "topics": [
               "cross-platform",
               "dotnet",
@@ -18014,7 +18655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T20:39:38.459Z",
+    "last_updated": "2026-09-13T20:56:49.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of projects that provide terminal user interfaces",
@@ -18022,14 +18663,14 @@
       "id": 178716643,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-11T16:48:11Z",
-      "open_issues": 77,
+      "last_commit": "2026-09-13T03:54:48Z",
+      "open_issues": 49,
       "owner": "rothgar",
       "repo": "awesome-tuis",
-      "stars": 20574,
+      "stars": 20581,
       "topics": []
     },
-    "original_repository_sha": "e6ba355158e1de7ec52d90acd218cc16eddc22a9",
+    "original_repository_sha": "ef6bff29e49e7441ef4677d9d834f4d25873288e",
     "enhanced_repository": "enhansome/enhansome-tuis",
     "enhanced_repository_description": null,
     "title": "Awesome tuis with stars"
